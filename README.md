@@ -195,3 +195,65 @@ A school bus management and tracking application concept designed to improve com
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/n8
+
+<!-- GITHUB STATUS BADGES -->
+
+<h2 align="center">📊 GitHub Status</h2>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhi9d01-png&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/abhi9d01-png?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/abhi9d01-png?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="GitHub stars" />
+
+</div>
+
+---
+
+<!-- GITHUB STAT CARDS -->
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi9d01-png&show_icons=true&hide_border=true&theme=github_dark&hide=contrib" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9d01-png&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
+
+</div>
+
+---
+
+<!-- CODING STREAK -->
+
+<h2 align="center">🔥 Coding Streak</h2>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9d01-png&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+<h2 align="center">📉 Contribution Activity</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+<!-- PROFILE SUMMARY -->
+
+<h2 align="center">📅 Contribution Summary</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9d01-png&theme=github_dark" alt="GitHub contribution summary" />
+
+</div>
