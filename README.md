@@ -49,58 +49,65 @@ I'm interested in the connection between software, networks, and infrastructure.
 
 ---
 
-<!-- CURRENT FOCUS -->
 
 <!-- CURRENT FOCUS -->
 
 <h2 align="center">🎯 What I'm Exploring</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>🌐 Frontend Development</h3>
 
-- HTML and CSS
-- JavaScript and TypeScript
-- React and Next.js
-- Responsive web design
-- UI components and API integration
+<p>
+HTML and CSS<br/>
+JavaScript and TypeScript<br/>
+React and Next.js<br/>
+Responsive Web Design<br/>
+UI Components and API Integration
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>🤖 Automation & Scripting</h3>
 
-- Python scripting
-- Bash and PowerShell
-- Git and GitHub Actions
-- Workflow automation
-- Automated deployments
+<p>
+Python Scripting<br/>
+Bash and PowerShell<br/>
+Git and GitHub Actions<br/>
+Workflow Automation<br/>
+Automated Deployments
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>🏠 Home Lab & Self-Hosting</h3>
 
-- Docker and container management
-- Pi-hole and network-wide ad blocking
-- Linux and server administration
-- Self-hosted applications
-- Service configuration and troubleshooting
+<p>
+Docker and Container Management<br/>
+Pi-hole and Network-wide Ad Blocking<br/>
+Linux and Server Administration<br/>
+Self-hosted Applications<br/>
+Service Configuration and Troubleshooting
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>🌐 Networking & Infrastructure</h3>
 
-- Computer networking fundamentals
-- DNS, DHCP, and IP addressing
-- Network troubleshooting
-- Network services and infrastructure
-- Monitoring and service reliability
+<p>
+Computer Networking Fundamentals<br/>
+DNS, DHCP, and IP Addressing<br/>
+Network Troubleshooting<br/>
+Network Services and Infrastructure<br/>
+Monitoring and Service Reliability
+</p>
 
 </td>
 </tr>
