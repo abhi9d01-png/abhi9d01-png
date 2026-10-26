@@ -1,4 +1,4 @@
-<!-- ==================== HEADER ==================== -->
+<!-- HEADER -->
 
 <div align="center">
 
@@ -16,11 +16,11 @@ Exploring networks, software development, Linux, and self-hosted infrastructure.
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ABOUT ME -->
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" />
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" />
 
 Hey! I'm **Abhiraj Singh**, a B.Tech Network Engineering student at Alliance University.
 
@@ -29,7 +29,7 @@ I'm interested in understanding how networks, applications, and infrastructure w
 - 🎓 Studying Network Engineering
 - 🌐 Exploring networking and infrastructure
 - 🐳 Experimenting with Docker and self-hosted services
-- 💻 Building software projects and improving my development skills
+- 💻 Building software projects
 - 🧠 Learning through hackathons and hands-on experiments
 - 🎯 Working towards becoming a stronger software and network engineer
 
@@ -37,7 +37,7 @@ I'm interested in understanding how networks, applications, and infrastructure w
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">🛠️ Featured Projects</h2>
 
@@ -52,12 +52,12 @@ A hands-on project exploring self-hosted services and container management.
 - Docker-based deployments
 - Service configuration
 - Troubleshooting documentation
-- Practical infrastructure learning
+- Infrastructure learning
 
 <div align="center">
 
 <a href="https://github.com/abhi9d01-png/Home-lab">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Home Lab repository" />
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Home Lab repository" />
 </a>
 
 </div>
@@ -69,14 +69,14 @@ A hands-on project exploring self-hosted services and container management.
 
 A school bus management and tracking application concept.
 
-- Live bus location tracking
+- Bus location tracking
 - Pickup and drop-off verification
 - Parent notifications
 - Route and student management
 
 <div align="center">
 
-<img src="https://img.shields.io/badge-Status-In_Development-orange?style=for-the-badge" alt="In development" />
+<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="In development" />
 
 </div>
 
@@ -86,7 +86,7 @@ A school bus management and tracking application concept.
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+<!-- CONNECT -->
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -95,6 +95,7 @@ A school bus management and tracking application concept.
 <a href="https://github.com/abhi9d01-png">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://www.linkedin.com/in/abhiraj-singh-94763b357/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -103,43 +104,51 @@ A school bus management and tracking application concept.
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- TECH STACK -->
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="Git, GitHub, Docker, and Linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="Git, GitHub, Docker, Linux" />
 
 </div>
 
-<p align="center">
-  <sub>Only list additional technologies here once you have hands-on experience with them.</sub>
-</p>
-
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- GITHUB STATS -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi9d01-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi9d01-png&show_icons=true&hide_border=true&theme=github_dark&hide=contrib" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9d01-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9d01-png&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
 </div>
 
 ---
 
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+<!-- ACTIVITY GRAPH -->
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&theme=github-compact" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<!-- PROFILE SUMMARY FALLBACK -->
+
+<h2 align="center">📅 Contribution Summary</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9d01-png&theme=github_dark" alt="GitHub profile contribution summary" />
 
 </div>
 
@@ -151,6 +160,6 @@ A school bus management and tracking application concept.
 
 *Learning continuously. Building consistently. Improving every day.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" />
 
 </div>
