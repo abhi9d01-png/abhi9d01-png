@@ -31,7 +31,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding" />
+<img align="right" width="270" src="https://media.tenor.com/zduaefgRHq4AAAAi/claude-claude-code.gif" alt="Claude Code animation" />
 
 Hey! I'm **Abhiraj Singh**, a B.Tech Network Engineering student at Alliance University.
 
