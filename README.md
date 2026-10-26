@@ -1,79 +1,156 @@
-# 👋 Hi, I'm Abhiraj!
+<!-- ==================== HEADER ==================== -->
 
-### 🐍 Python Developer in Progress | 🌐 Aspiring Network Engineer
+<div align="center">
 
-I'm passionate about **software development, computer networking, and building practical projects**. I'm learning by experimenting, solving problems, and documenting my progress on GitHub.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" />
 
-## 💫 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhiraj+Singh;Network+Engineering+Student;Software+%26+Infrastructure+Enthusiast" alt="Typing introduction" />
 
-- 🔭 I'm currently working on **Python projects and networking labs**
-- 👯 I'm looking to collaborate on **beginner-friendly open-source projects and practical applications**
-- 🤝 I'm looking for help with **backend development, networking fundamentals, and problem-solving**
-- 🌱 I'm currently learning **Python, SQL, REST APIs, Git, Linux, and Computer Networking**
-- 💬 Ask me about **Python basics, programming, and networking fundamentals**
-- 🎯 My goal is to combine **network engineering and software development**
-- ⚡ Fun fact: I love learning by building projects and turning ideas into working solutions!
+### Network Engineering Student
 
-## 🌐 Connect With Me
+`Building skills. Building projects. Learning by doing.`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi9d01-png)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+Exploring networks, software development, Linux, and self-hosted infrastructure.
 
-## 💻 Tech Stack
-
-### 🐍 Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Networking & Operating Systems
-
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-*Note: These badges represent technologies I'm interested in learning and using. My projects will demonstrate my actual experience as I progress.*
-
-## 📂 My GitHub Projects
-
-### 🌐 Network Engineering Labs
-Hands-on networking practice, command-line exercises, network troubleshooting, and documentation.
-
-➡️ [Explore my networking labs](https://github.com/abhi9d01-png?tab=repositories)
-
-### 💻 Software Development Projects
-Python programs, SQL exercises, APIs, automation scripts, and practical applications.
-
-➡️ [Explore my software projects](https://github.com/abhi9d01-png?tab=repositories)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi9d01-png&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhi9d01-png&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9d01-png&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📈 Contribution Graph
-
-[![Abhiraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&theme=tokyo-night&hide_border=true)](https://github.com/abhi9d01-png)
+</div>
 
 ---
 
-### 🚀 Learn. Build. Experiment. Repeat.
+<!-- ==================== ABOUT ME ==================== -->
 
-*Every project is a step toward becoming a better developer and network engineer.*
+<h2 align="center">🚀 About Me</h2>
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" />
+
+Hey! I'm **Abhiraj Singh**, a B.Tech Network Engineering student at Alliance University.
+
+I'm interested in understanding how networks, applications, and infrastructure work together. I enjoy learning through practical projects and documenting what I build.
+
+- 🎓 Studying Network Engineering
+- 🌐 Exploring networking and infrastructure
+- 🐳 Experimenting with Docker and self-hosted services
+- 💻 Building software projects and improving my development skills
+- 🧠 Learning through hackathons and hands-on experiments
+- 🎯 Working towards becoming a stronger software and network engineer
+
+<br clear="right"/>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+<h2 align="center">🛠️ Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏠 Home Lab</h3>
+
+A hands-on project exploring self-hosted services and container management.
+
+- Docker-based deployments
+- Service configuration
+- Troubleshooting documentation
+- Practical infrastructure learning
+
+<div align="center">
+
+<a href="https://github.com/abhi9d01-png/Home-lab">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Home Lab repository" />
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🚌 SchoolRoute</h3>
+
+A school bus management and tracking application concept.
+
+- Live bus location tracking
+- Pickup and drop-off verification
+- Parent notifications
+- Route and student management
+
+<div align="center">
+
+<img src="https://img.shields.io/badge-Status-In_Development-orange?style=for-the-badge" alt="In development" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/abhi9d01-png">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/abhiraj-singh-94763b357/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+<h2 align="center">💻 Tech Stack & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="Git, GitHub, Docker, and Linux" />
+
+</div>
+
+<p align="center">
+  <sub>Only list additional technologies here once you have hands-on experience with them.</sub>
+</p>
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi9d01-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9d01-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Most used programming languages" />
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*Learning continuously. Building consistently. Improving every day.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" />
+
+</div>
