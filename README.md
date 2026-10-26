@@ -51,6 +51,8 @@ I'm interested in the connection between software, networks, and infrastructure.
 
 <!-- CURRENT FOCUS -->
 
+<!-- CURRENT FOCUS -->
+
 <h2 align="center">🎯 What I'm Exploring</h2>
 
 <table>
@@ -68,13 +70,37 @@ I'm interested in the connection between software, networks, and infrastructure.
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 Automation & Infrastructure</h3>
+<h3>🤖 Automation & Scripting</h3>
 
 - Python scripting
 - Bash and PowerShell
-- Docker and Linux
 - Git and GitHub Actions
-- Automated workflows and deployments
+- Workflow automation
+- Automated deployments
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏠 Home Lab & Self-Hosting</h3>
+
+- Docker and container management
+- Pi-hole and network-wide ad blocking
+- Linux and server administration
+- Self-hosted applications
+- Service configuration and troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌐 Networking & Infrastructure</h3>
+
+- Computer networking fundamentals
+- DNS, DHCP, and IP addressing
+- Network troubleshooting
+- Network services and infrastructure
+- Monitoring and service reliability
 
 </td>
 </tr>
