@@ -236,15 +236,6 @@ A school bus management and tracking application concept designed to improve com
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-
-<h2 align="center">📉 Contribution Activity</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
 
 ---
 
