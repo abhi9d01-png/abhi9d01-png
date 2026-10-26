@@ -257,27 +257,4 @@ A school bus management and tracking application concept designed to improve com
 
 ---
 
-<!-- CODING STREAK -->
 
-<h2 align="center">🔥 Coding Streak</h2>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9d01-png&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-
----
-
-<!-- PROFILE SUMMARY -->
-
-<h2 align="center">📅 Contribution Summary</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9d01-png&theme=github_dark" alt="GitHub contribution summary" />
-
-</div>
