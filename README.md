@@ -1,16 +1,27 @@
-<!-- HEADER -->
+<!-- ===================================================== -->
+<!--                 ABHIRAJ SINGH PROFILE                -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhiraj+Singh;Network+Engineering+Student;Software+%26+Infrastructure+Enthusiast" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Abhiraj+Singh;Network+Engineering+Student;Frontend+%26+Automation+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Introduction" />
 
-### Network Engineering Student
+<p>
+  <b>Network Engineering Student | Frontend Developer | Automation Enthusiast</b>
+</p>
 
-`Building skills. Building projects. Learning by doing.`
+<p>
+  Interested in building useful software, automating repetitive tasks, and exploring infrastructure.
+</p>
 
-Exploring networks, software development, Linux, and self-hosted infrastructure.
+<a href="https://github.com/abhi9d01-png">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/abhiraj-singh-94763b357/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
@@ -18,26 +29,60 @@ Exploring networks, software development, Linux, and self-hosted infrastructure.
 
 <!-- ABOUT ME -->
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" />
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding" />
 
 Hey! I'm **Abhiraj Singh**, a B.Tech Network Engineering student at Alliance University.
 
-I'm interested in understanding how networks, applications, and infrastructure work together. I enjoy learning through practical projects and documenting what I build.
+I'm interested in the connection between software, networks, and infrastructure. I enjoy learning by building projects, testing tools, and documenting my work.
 
 - 🎓 Studying Network Engineering
-- 🌐 Exploring networking and infrastructure
+- 🌐 Exploring computer networks and infrastructure
+- 🎨 Learning frontend development and modern web technologies
+- 🤖 Interested in scripting and workflow automation
 - 🐳 Experimenting with Docker and self-hosted services
-- 💻 Building software projects
-- 🧠 Learning through hackathons and hands-on experiments
-- 🎯 Working towards becoming a stronger software and network engineer
+- 💡 Participating in technical projects and hackathons
+- 🎯 Building a practical portfolio for software and engineering opportunities
 
 <br clear="right"/>
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- CURRENT FOCUS -->
+
+<h2 align="center">🎯 What I'm Exploring</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌐 Frontend Development</h3>
+
+- HTML and CSS
+- JavaScript and TypeScript
+- React and Next.js
+- Responsive web design
+- UI components and API integration
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 Automation & Infrastructure</h3>
+
+- Python scripting
+- Bash and PowerShell
+- Docker and Linux
+- Git and GitHub Actions
+- Automated workflows and deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- PROJECTS -->
 
 <h2 align="center">🛠️ Featured Projects</h2>
 
@@ -47,17 +92,24 @@ I'm interested in understanding how networks, applications, and infrastructure w
 
 <h3 align="center">🏠 Home Lab</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Self--Hosted_Services-blue?style=flat-square" alt="Self-hosted services" />
+</p>
+
 A hands-on project exploring self-hosted services and container management.
+
+**Project areas**
 
 - Docker-based deployments
 - Service configuration
+- Infrastructure experiments
 - Troubleshooting documentation
-- Infrastructure learning
+- Learning system administration
 
 <div align="center">
 
 <a href="https://github.com/abhi9d01-png/Home-lab">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Home Lab repository" />
+  <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Home Lab" />
 </a>
 
 </div>
@@ -67,16 +119,23 @@ A hands-on project exploring self-hosted services and container management.
 
 <h3 align="center">🚌 SchoolRoute</h3>
 
-A school bus management and tracking application concept.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Transport_Management-orange?style=flat-square" alt="Transport management" />
+</p>
+
+A school bus management and tracking application concept designed to improve communication between schools, drivers, and parents.
+
+**Planned features**
 
 - Bus location tracking
 - Pickup and drop-off verification
 - Parent notifications
 - Route and student management
+- Administrative controls
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="In development" />
+<img src="https://img.shields.io/badge/Status-Planning_&_Development-orange?style=for-the-badge" alt="Planning and development" />
 
 </div>
 
@@ -86,80 +145,53 @@ A school bus management and tracking application concept.
 
 ---
 
-<!-- CONNECT -->
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://github.com/abhi9d01-png">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/abhiraj-singh-94763b357/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
-
----
-
 <!-- TECH STACK -->
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="Git, GitHub, Docker, Linux" />
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h3 align="center">🌐 Frontend Development</h3>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi9d01-png&show_icons=true&hide_border=true&theme=github_dark&hide=contrib" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9d01-png&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,sass,figma&theme=dark" alt="Frontend development technologies" />
 
 </div>
 
----
-
-<!-- ACTIVITY GRAPH -->
-
-<h2 align="center">📈 Activity Graph</h2>
+<h3 align="center">⚙️ Programming & Backend</h3>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9d01-png&theme=github-compact" alt="GitHub activity graph" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,java,c,cpp,php,mongodb,mysql,postgres,redis&theme=dark" alt="Programming and backend technologies" />
 
 </div>
 
----
-
-<!-- PROFILE SUMMARY FALLBACK -->
-
-<h2 align="center">📅 Contribution Summary</h2>
+<h3 align="center">🤖 Automation & Scripting</h3>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9d01-png&theme=github_dark" alt="GitHub profile contribution summary" />
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,selenium,ansible,githubactions&theme=dark" alt="Automation and scripting tools" />
 
 </div>
 
----
+<h3 align="center">🐳 DevOps, Cloud & Infrastructure</h3>
 
 <div align="center">
 
-### Thanks for visiting my profile!
-
-*Learning continuously. Building consistently. Improving every day.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,gitlab,terraform,aws,azure,gcp,prometheus,grafana&theme=dark" alt="Infrastructure and DevOps technologies" />
 
 </div>
+
+<h3 align="center">🧰 Development Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,postman,npm,pnpm,yarn,webpack&theme=dark" alt="Development tools" />
+
+</div>
+
+<h3 align="center">🔄 Workflow Automation</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/n8
